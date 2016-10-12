@@ -15,7 +15,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #999;
+  color: black;
 }
 a:hover {
   color: #6633ff;
@@ -110,7 +110,7 @@ footer {
 
 footer .copyright {
   top: -8px;
-  font-size: .75em;
+  font-size: .5em;
 }
 
 footer ul {
@@ -137,8 +137,7 @@ a.social {
 a.linkedin {
   background-image: url(images/linkedin.svg);
 }
-a.github {
-  background-image: url(images/github.svg);
+
 }
 a.social:hover {
   opacity: 1;
