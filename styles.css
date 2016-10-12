@@ -137,7 +137,8 @@ a.social {
 a.linkedin {
   background-image: url(images/linkedin.svg);
 }
-
+a.github {
+  background-image: url(images/github.svg);
 }
 a.social:hover {
   opacity: 1;
