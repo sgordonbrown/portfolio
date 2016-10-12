@@ -8,7 +8,7 @@ body {
   padding: 0;
   text-align: center;
   font-family: 'Heebo', sans-serif;
-  color: #222;
+  color: #d17419;
   background: #333;
 }
 /* Link Styles */
@@ -76,10 +76,10 @@ header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
 .tag {
-  background-color: #efefef;
+  background-color: #808080;
   color: black;
-  padding: 10px;
-  border-radius: 5px;
+  padding: 5px 5px;
+  border-radius: 5px 5px;
   display: table;
   margin: 10px auto;
 } 
@@ -93,7 +93,7 @@ header .profile-image:hover {
   max-width: 500px;
   text-align: left;
   background: #fff;
-  border-bottom: 4px solid #ccc;
+  border-bottom: 4px solid #808080;
   border-radius: 6px;
   transition: all .5s;
 }
@@ -184,4 +184,10 @@ a.social:hover {
   }
 
 }
+
+
+
+
+
+
 
