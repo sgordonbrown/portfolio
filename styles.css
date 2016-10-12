@@ -66,14 +66,13 @@ header {
   line-height: 1.5;
 }
 header .profile-image {
-  margin-top: 50px;
+  margin-top: 75px;
   width: 150px;
   border-radius: 25%;
   border: 3px solid darkgrey;
   transition: all .5s;
 }
 
-}
 .tag {
   background-color: #808080;
   color: black;
@@ -149,6 +148,26 @@ a.social:hover {
 /***************************** 
 PAGE: HOME
 ******************************/
+#gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#gallery li {
+  float: left;
+  width: 45%;
+  margin: 2.5%;
+  background-color: darkgrey;
+  color: #bdc3c7;
+}
+
+#gallery li a p{
+  margin: 0;
+  padding: 5%;
+  font-size: 0.75em;
+  color: black;
+}
 
 /***************************** 
 PAGE: ABOUT
