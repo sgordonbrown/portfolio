@@ -52,7 +52,10 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white
+  color: white;
+}
+.nav a.selected {
+	color: white;
 }
 
 header {
